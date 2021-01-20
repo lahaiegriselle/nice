@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "darmon",
+    "name": "nice",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -45,7 +45,52 @@
     "publishChangesOnly": false,
     "uniqCompNum": 11,
     "versionPublish": "5.2.2",
-    "imageResize": true
+    "imageResize": true,
+    "chatbutton": {
+      "phone": "+12345678901",
+      "message": "",
+      "size": "65px",
+      "backgroundColor": "#e5ddd5",
+      "position": "left",
+      "popupMessage": "tapez votre message et validez !\nWhatsapp s\"ouvrira et votre message sera envoyé",
+      "showPopup": true,
+      "showOnIE": true,
+      "autoOpenTimeout": "0",
+      "headerColor": "#39847a",
+      "headerTitle": "Interessé?",
+      "placeholder": "Type here",
+      "zIndex": 10,
+      "enabled": true
+    },
+    "favicon": false,
+    "mbrsiteDomain": "grruwnxwpc",
+    "cssOptimize": false,
+    "lazyLoad": false,
+    "lazyType": "nothing",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "We use cookies to give you the best experience. ",
+      "textButton": "Agree"
+    },
+    "gdpr": false,
+    "pwa-switcher": true,
+    "PWA": {
+      "enabled": true,
+      "name": "",
+      "icon": "@PROJECT_PATH@/assets/images/immobiliere-darmon-logo-violet-rvb-web-512x512.png",
+      "themeColor": "#ffffff"
+    }
   },
   "pages": {
     "index.html": {
